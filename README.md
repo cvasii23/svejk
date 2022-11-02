@@ -1,7 +1,7 @@
 
 ## Question Answering Model
 
-Question Answering model, for one word answer to questions. I used this to illustrate how attention works in a LSTM Neural network in [this blog post](https://nextitproject.ro/wp-admin/post.php?post=1036&action=edit)
+Question Answering model, for one word answer to questions. I used this to illustrate how attention works in a LSTM Neural network in [this blog post](https://nextitproject.ro/2022/11/02/the-key-concepts-of-the-nlp-revolution-and-how-the-good-soldier-svejk-would-benefit-from-them/)
 
 ### Data
 
